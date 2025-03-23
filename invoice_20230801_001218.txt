@@ -1,0 +1,7 @@
+Invoice Details:
+Date: Alvin
+Customer: James
+Total Amount: 20
+Promo Amount: /v
+Random Reduction: 1
+Final Payment: 19
