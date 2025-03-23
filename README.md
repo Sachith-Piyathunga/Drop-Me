@@ -8,3 +8,8 @@ experience.
 
 To summarize, the DropMeTM console initiative is a commendable endeavor to revolutionize the Kingdom of Miranda's taxi service industry. With its robust features and meticulous attention to detail, the application has the potential to significantly improve the quality of taxi services for both
 clients and service providers.
+
+# Problem
+The present project's purpose is to produce a console application particularly tailored to meet the demands of tourists going through Miranda's Kingdom. The major aim is to provide an intuitive and user-friendly user interface that allows passengers to easily access complete trip information and generate accurate receipts for their taxi rides. This necessitates the program's ability to smoothly combine a wide range of instructions, such as requests for price information, savings via promotional codes, and vehicle preferences. 
+
+Furthermore, the system must include a way for selecting the lucky winners of random promotions and precisely computing rates in line with the price table supplied. Furthermore, the application must be able to generate detailed invoice files with all relevant information, allowing openfinancial interactions between clients and taxi service providers.
